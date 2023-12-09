@@ -1,0 +1,65 @@
+name: codetest1
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  retrofit:
+  logger:
+  flutter_bloc:
+  equatable:
+  flutter_slidable:
+  get_it: #service locator
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  retrofit_generator:
+  json_serializable:
+  build_runner:
+  
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
